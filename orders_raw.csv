@@ -1,0 +1,4 @@
+order_id,customer_email,product_sku,order_time,amount,status
+1001,alice@gmail.com,SKU_A,2024-01-01 10:00:00,1000,PAID
+1002,bob@gmail.com,SKU_B,2024-01-02 11:00:00,-200,PAID
+1003,charlie@gmail.com,SKU_A,2024-01-03 12:00:00,500,CANCELED
